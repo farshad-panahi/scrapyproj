@@ -2,7 +2,7 @@
 <p>
 source was : <a href="https://www.scrapethissite.com/pages/simple/">https://www.scrapethissite.com/pages/simple/</a>
 </p>
-<p>outputed data rendered in these formats:</p>
+<p>output data rendered in these formats:</p>
 <ol>
     <li>SQLite</li>
     <li>Json</li>
